@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Streaming
+  m_EditorClassIdentifier: 
+  m_GroupName: Streaming
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 97ff0383d4cae1f45a31ac25ec8030b0
+  m_SerializeEntries:
+  - m_GUID: b5bee38888882c4468a4e175a3e19c29
+    m_Address: Cake
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43b79be9c14d85747aea9a158f4d3e91
+    m_Address: Apricot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e373183604f1105468d43f9c3d3ab8bf
+    m_Address: Melon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ab94d2bb932d9d4393fccda2b8a41f7
+    m_Address: Grape
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ce7962e12ac0764eb31b92405f8ffa9
+    m_Address: Tomato
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 806a1eb7f596c6d41819820894541627
+    m_Address: Raspberries
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a10737c3694b8944698d789206d11476
+    m_Address: Flashlight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c13488946065b44a9cee1d74e28c88e
+    m_Address: Lighthouse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18bc17981d7fd434bb83b80a8aa0c9b9
+    m_Address: Ball
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44dc5f4010f267d4793768e2e043addc
+    m_Address: Telephone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43fe2b961ecf7e54cbd36b2dc35fb2f9
+    m_Address: Backpack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfeab12c59adb84438438798dcc652d2
+    m_Address: Rollers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 78b1e7ea4a8d033408e678aa53069f87, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33c6080601d469b4b8768805448aa2ad, type: 2}
+    - {fileID: 11400000, guid: 26d79625e0c227842bc7825a09697166, type: 2}
